@@ -1,0 +1,19 @@
+table,
+th,
+td {
+  border: 1px solid black;
+
+}
+th,
+td {
+   padding-top: 20px;
+   padding-bottom: 30px;
+   padding-left: 45px;
+   padding-right: 50px;
+}
+table{
+    border-spacing: 30px;
+}
+tr:hover{
+    background-color:rebeccapurple;
+}

@@ -1,0 +1,24 @@
+body {
+    background: salmon;
+}
+h1 {
+    color: yellow;
+    font-family: verdana;
+    font-size: 300%;
+    border: 2px solid olive;
+}
+p {
+    color: chartreuse;
+    font-family: courier;
+    font-size: 160%;
+    border: 2px solid purple;
+}
+h2 {
+    background: green;
+    color: blueviolet;
+    font-family: arial;
+    font-size: 200%;
+    border: 2px solid yellow;
+    padding: 30px;
+    margin: 50px;
+}
