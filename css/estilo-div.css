@@ -1,0 +1,8 @@
+* {
+  border: solid 1px blueviolet;
+}
+div {
+  background-color: aqua;
+  width: 300px;
+  margin: auto;
+}
